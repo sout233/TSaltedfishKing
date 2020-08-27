@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**TSaltedfishKing/TSaltedfishKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub PatEvs](https://img.shields.io/github/followers/patevs?label=follow&style=social)](https://github.com/TSaltedfishKing)
 Here are some ideas to get you started:
 
